@@ -15,7 +15,7 @@
 
 
 <p align="left">
-  💌 Entre em contato comigo: ⤵️
+  Entre em contato comigo: ⤵️
 </p>
 
 
