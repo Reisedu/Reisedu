@@ -8,7 +8,8 @@
 <p align="left">
   Aluno do Programa Starter Full Stack Web Developer na <a href="https://growdev.com.br" alt="Growdev">Growdev</a> atualmente estudando Front End
 </p>
-<p> tenho como hobbies solucionar cubos mágicos <p>
+<p> conhecimentos: <br>
+HTML e CSS<p>
 
 
 <br>
